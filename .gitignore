@@ -12,9 +12,13 @@ vendor/
 
 *.exe
 *.out
+*.log
 
 .DS_Store
 
+tmp/
+/tmp/*
 /bin/
 
 *.out
+.vscode/
